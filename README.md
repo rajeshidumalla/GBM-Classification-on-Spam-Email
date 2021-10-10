@@ -1,6 +1,6 @@
 # GBM Classification on Spam Email
 
-
+Please read this README.md file to learn more about the GBM classification on Spam Email. Thanks 😊 
 
 ### Importing Libraries
 
@@ -76,6 +76,9 @@ print ("non-spam misclassification rate")
 print(non_spam_err*100)
 ```
 
+<img width="283" alt="Screen Shot 2021-10-10 at 1 48 07 pm" src="https://user-images.githubusercontent.com/56792400/136679579-0544db97-ccef-4ade-901a-e231cd2fd498.png">
+
+
 ### GBM Model 2
 
 ```{r}
@@ -108,6 +111,7 @@ print ("non-spam misclassification rate")
 print(non_spam_err*100)
 ```
 
+<img width="509" alt="Screen Shot 2021-10-10 at 1 49 36 pm" src="https://user-images.githubusercontent.com/56792400/136679589-aba53b2e-5388-4a30-85bd-78daedbbb3ea.png">
 
 
 
